@@ -1,26 +1,26 @@
 const precosLivros = [
   {
-    titulo: "JavaScript",
-    preco: 25
+    titulo: "Física 1",
+    preco: 2
   },
   {
-    titulo: "PHP",
-    preco: 15
+    titulo: "Física 2",
+    preco: 5
   }, 
   {
-    titulo: "Java",
-    preco: 30
+    titulo: "Física 3",
+    preco: 35
   }, 
   {
-    titulo: "Elixir",
+    titulo: "Física 4",
     preco: 50
   }, 
   {
-    titulo: "Go",
+    titulo: "Física 5",
     preco: 45
   }, 
   {
-    titulo: "Física 1",
+    titulo: "Física 6",
     preco: 2
   }
 ];
